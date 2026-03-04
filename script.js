@@ -1,3 +1,3 @@
 function welcome(){
-    alert('jó reggelt!');
+    alert('Guten Morgen!');
 }
